@@ -1,5 +1,21 @@
 # @hyperdx/app
 
+## 2.7.1
+
+### Patch Changes
+
+- 93edb6f: fix: memoize inputs to fix text input performance
+- 2162a69: feat: Optimize and fix filtering on toStartOfX primary key expressions
+- bb3539d: improve drawer a11y
+- 24b5477: feat: allow specifying webhook request headers
+- 757196f: close modals when bluring (dates and search hints)
+- ff86d40: feat: Implement query chunking for charts
+- 21614b9: feat: Include displayed timestamp in default order by
+- ab7af41: avoid hydration errors when app loads if nav is collapsed
+- Updated dependencies [2162a69]
+- Updated dependencies [8190ee8]
+  - @hyperdx/common-utils@0.7.2
+
 ## 2.7.0
 
 ### Minor Changes

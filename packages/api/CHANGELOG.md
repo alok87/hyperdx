@@ -1,5 +1,15 @@
 # @hyperdx/api
 
+## 2.7.1
+
+### Patch Changes
+
+- 24b5477: feat: allow specifying webhook request headers
+- 778092d: fix: set a max size for alert timeranges
+- Updated dependencies [2162a69]
+- Updated dependencies [8190ee8]
+  - @hyperdx/common-utils@0.7.2
+
 ## 2.7.0
 
 ### Minor Changes
